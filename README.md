@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Kumar Prasad</h1>
+![logo]()<h1 align="center">Hi 👋, I'm Akash Kumar Prasad</h1>
 <h3 align="center">A Machine Learning enthusiast and passionate developer from NIT Allahabad.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
