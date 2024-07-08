@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkrp&label=Profile%20views&color=0e75b6&style=flat" alt="akashkrp" /> </p>
 
-- 🌱 I’m currently learning **Machine Learing and MERN Stack**
+- 🌱 I’m currently learning **MERN Stack and Blockchian**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Akash_krp](https://linktr.ee/Akash_krp)
 
