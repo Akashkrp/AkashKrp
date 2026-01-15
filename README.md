@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Development technologies**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/Akash_krp](https://linktr.ee/Akash_krp)
-
 - 📫 How to reach me **kumarak2061@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
