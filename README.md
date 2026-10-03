@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/akash-kumar-prasad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kumarak2061@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/akashkr_prasad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Akashkrp&label=Profile%20views&color=a855f7&style=for-the-badge" alt="Profile views" />
+  <a href="https://hits.sh/github.com/Akashkrp/"><img src="https://hits.sh/github.com/Akashkrp.svg?style=for-the-badge&label=Profile%20views&color=a855f7&labelColor=555555&extraCount=562" alt="Profile views" /></a>
 </p>
 
 <img src="assets/divider.gif" alt="" width="100%" />
