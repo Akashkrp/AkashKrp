@@ -1,8 +1,8 @@
-name: Generate snake animation
+name: Generate profile assets (snake + stats cards)
 
 on:
   schedule:
-    - cron: "0 0 * * *" # daily
+    - cron: "0 */6 * * *" # every 6 hours
   workflow_dispatch:
   push:
     branches: [main]
@@ -13,8 +13,23 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # Stats, top-languages and streak cards. Uses the optional STATS_TOKEN secret
+      # (a personal access token) so private contributions are counted; falls back
+      # to the built-in token, which only sees public activity.
+      - name: Generate stats cards
+        run: node scripts/generate-stats.mjs dist
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}

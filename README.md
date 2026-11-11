@@ -61,11 +61,11 @@ I build full-stack web apps and the AI behind them: RAG-based support agents, LL
 ## <img src="assets/bar_chart.png" alt="" width="34" /> GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akashkrp&show_icons=true&hide_border=true&theme=tokyonight&title_color=e879f9&icon_color=7ee0ff" alt="Akash's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akashkrp&layout=compact&hide_border=true&theme=tokyonight&title_color=e879f9" alt="Akash's most-used languages" />
+  <img height="170" src="https://raw.githubusercontent.com/Akashkrp/AkashKrp/output/stats.svg" alt="Akash's GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/Akashkrp/AkashKrp/output/top-langs.svg" alt="Akash's most-used languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akashkrp&theme=tokyonight&hide_border=true&ring=e879f9&fire=e879f9&currStreakLabel=7ee0ff" alt="Akash's contribution streak" />
+  <img src="https://raw.githubusercontent.com/Akashkrp/AkashKrp/output/streak.svg" alt="Akash's contribution streak" />
 </p>
 
 <p align="center">
