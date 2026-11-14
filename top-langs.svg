@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="186" viewBox="0 0 320 186" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" role="img" aria-label="Most used languages">
+  <rect width="320" height="186" rx="6" fill="#1a1b27"/>
+  <text x="25" y="35" fill="#e879f9" font-size="18" font-weight="600">Most Used Languages</text>
+  <clipPath id="bar"><rect x="0" y="0" width="270" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#bar)" transform="translate(25 55)"><rect x="0.00" y="0" width="137.85" height="8" fill="#f1e05a"/><rect x="137.85" y="0" width="66.88" height="8" fill="#3572A5"/><rect x="204.72" y="0" width="31.41" height="8" fill="#3178c6"/><rect x="236.13" y="0" width="25.44" height="8" fill="#663399"/><rect x="261.57" y="0" width="8.05" height="8" fill="#e34c26"/><rect x="269.63" y="0" width="0.18" height="8" fill="#C1F12E"/><rect x="269.81" y="0" width="0.17" height="8" fill="#384d54"/><rect x="269.98" y="0" width="0.02" height="8" fill="#89e051"/></g>
+  <g transform="translate(25 78)">
+    <g transform="translate(0 0)">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+      <text x="15" y="10" fill="#a9b1d6" font-size="12">JavaScript 51.1%</text>
+    </g>
+    <g transform="translate(140 0)">
+      <circle cx="5" cy="6" r="5" fill="#3572A5"/>
+      <text x="15" y="10" fill="#a9b1d6" font-size="12">Python 24.8%</text>
+    </g>
+    <g transform="translate(0 24)">
+      <circle cx="5" cy="6" r="5" fill="#3178c6"/>
+      <text x="15" y="10" fill="#a9b1d6" font-size="12">TypeScript 11.6%</text>
+    </g>
+    <g transform="translate(140 24)">
+      <circle cx="5" cy="6" r="5" fill="#663399"/>
+      <text x="15" y="10" fill="#a9b1d6" font-size="12">CSS 9.4%</text>
+    </g>
+    <g transform="translate(0 48)">
+      <circle cx="5" cy="6" r="5" fill="#e34c26"/>
+      <text x="15" y="10" fill="#a9b1d6" font-size="12">HTML 3.0%</text>
+    </g>
+    <g transform="translate(140 48)">
+      <circle cx="5" cy="6" r="5" fill="#C1F12E"/>
+      <text x="15" y="10" fill="#a9b1d6" font-size="12">Batchfile 0.1%</text>
+    </g>
+    <g transform="translate(0 72)">
+      <circle cx="5" cy="6" r="5" fill="#384d54"/>
+      <text x="15" y="10" fill="#a9b1d6" font-size="12">Dockerfile 0.1%</text>
+    </g>
+    <g transform="translate(140 72)">
+      <circle cx="5" cy="6" r="5" fill="#89e051"/>
+      <text x="15" y="10" fill="#a9b1d6" font-size="12">Shell 0.0%</text>
+    </g>
+  </g>
+</svg>
